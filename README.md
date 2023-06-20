@@ -31,6 +31,11 @@ wealthy. Ethereum (Ether is the coin, Ethereum is the network)
 is switching to this. 
 
 # Protocol
+A protocol is simply a method of commication. 
+Protocols like Ethereum and Bitcoin, are determined 
+by each network beforehand and are unique to each network 
+(but dont have to be). Ethereum reads and writes blocks 
+of information different than Bitcoin. It's like a language. 
 
 # Coin 
 
