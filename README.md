@@ -4,7 +4,8 @@
 A blockchain example to delve into this technology
 
 # Blockchain 
-A blockchain is a ledger for transactions. It can be 
+A blockchain is a ledger for transactions built with 
+blocks of information chained together. It can be 
 public (bitcoin) or private (banks). 
 
 ## Proof of Work 
