@@ -20,6 +20,14 @@ farms. This method doesn't scale well overtime
 and uses a lot of resources. 
 
 ## Proof of Stake
+A miner is given a transaction to verify 
+if they have a large amount of coin themselves. 
+By "betting" their own coin on the transaction they 
+just verified, they have stake in the game 
+and are less likely to falsify records. 
+This method is scalable but favors the 
+wealthy. Ethereum (Ether is the coin, Ethereum is the network)
+is switching to this. 
 
 # Protocol
 
