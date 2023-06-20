@@ -38,5 +38,11 @@ by each network beforehand and are unique to each network
 of information different than Bitcoin. It's like a language. 
 
 # Coin 
+Coin like Bitcoin or Ether, are a network's main 
+currency. 
 
 # Token 
+Tokens are built upon a network's infrastructure 
+but are not apart of it. So we can create 
+"crypto coins" like SHIB using Ethereum's network
+but it will actually be a token. 
