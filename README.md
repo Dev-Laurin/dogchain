@@ -8,7 +8,8 @@ A blockchain is a ledger for transactions built with
 blocks of information chained together. It can be 
 public (bitcoin) or private (banks). 
 
-## Proof of Work 
+## Consensus Algorithms
+### Proof of Work 
 Bitcoin miners fight to verify a transaction 
 first and once verified are rewarded with Bitcoin. 
 This theoretically keeps it open and fair as
@@ -20,7 +21,7 @@ is instead utilized by companies with big server
 farms. This method doesn't scale well overtime 
 and uses a lot of resources. 
 
-## Proof of Stake
+### Proof of Stake
 A miner is given a transaction to verify 
 if they have a large amount of coin themselves. 
 By "betting" their own coin on the transaction they 
